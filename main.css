@@ -3940,3 +3940,6 @@ input, select, textarea {
 	width: 550px;
 	height: 500px;
 }
+.caption{
+	text-align: center;
+}
